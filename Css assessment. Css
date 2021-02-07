@@ -1,0 +1,38 @@
+Body{
+     Background color:#D3D3D3;
+    }
+
+
+h1{
+   border:1px solid black;
+  }
+
+
+h2{
+   Color:purple;
+  }
+
+
+input{
+   border_color:darkblue;
+   border_style:solid;
+   border_width:5px;
+  }
+
+
+
+#textblock{
+   border:5px solid gray;
+   hight:400px;
+   width:800px;
+  }
+
+
+a{
+  Color:red;
+ }
+
+
+Body{
+     Font_family:'Aldrich',sans-serif;
+    }
